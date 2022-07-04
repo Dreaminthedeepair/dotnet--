@@ -1,0 +1,12 @@
+E:\杂项\基本学习\unsafeceshi\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.deps.json
+E:\杂项\基本学习\unsafeceshi\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.dll
+E:\杂项\基本学习\unsafeceshi\ClassLibrary2\bin\Debug\net6.0\ClassLibrary2.pdb
+E:\杂项\基本学习\unsafeceshi\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.AssemblyReference.cache
+E:\杂项\基本学习\unsafeceshi\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+E:\杂项\基本学习\unsafeceshi\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfoInputs.cache
+E:\杂项\基本学习\unsafeceshi\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.AssemblyInfo.cs
+E:\杂项\基本学习\unsafeceshi\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+E:\杂项\基本学习\unsafeceshi\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.dll
+E:\杂项\基本学习\unsafeceshi\ClassLibrary2\obj\Debug\net6.0\refint\ClassLibrary2.dll
+E:\杂项\基本学习\unsafeceshi\ClassLibrary2\obj\Debug\net6.0\ClassLibrary2.pdb
+E:\杂项\基本学习\unsafeceshi\ClassLibrary2\obj\Debug\net6.0\ref\ClassLibrary2.dll
